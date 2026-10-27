@@ -1,4 +1,4 @@
-# Code and data: an enhancer RNA atlas of programmed cell death in hepatocellular carcinoma
+# An enhancer RNA atlas of programmed cell death in hepatocellular carcinoma
 
 Analysis code and processed data for the manuscript "An enhancer RNA atlas of programmed cell death in hepatocellular carcinoma" (TGH-2026-0192). 
 
