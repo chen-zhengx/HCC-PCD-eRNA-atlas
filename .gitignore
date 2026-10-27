@@ -1,0 +1,15 @@
+# Expression matrices (large; distributed separately)
+data/expression/
+
+# Files written when the scripts are run
+output/
+**/output/
+__pycache__/
+.mplconfig/
+.Rhistory
+.RData
+calcPhenotype_Output/
+11_drug/input/GDSC2/
+
+# Local processing pipeline (not part of this repository)
+00_preprocessing/pipeline/

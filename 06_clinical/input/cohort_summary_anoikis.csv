@@ -1,0 +1,2 @@
+"module","N","deaths","censored","median_followup_months","followup_IQR_low","followup_IQR_high","max_time_months","n_candidate_eRNAs","EPV_candidates","n_univariate_pass","n_final_eRNAs","EPV_final_model","lambda_rule","lambda","split_n_repeats","split_lasso_fallback","split_median_n_eRNA"
+"anoikis",70,23,47,39.2936344969199,37.2566735112936,41.1663244353183,49.2484599589322,196,0.11734693877551,124,11,2.09090909090909,"lambda.min",0.0811130830789687,10,5,5.5
